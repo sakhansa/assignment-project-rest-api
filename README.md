@@ -1,6 +1,6 @@
 # assignment-project-rest-api
 
-Create REST-API
+Create REST-API (Postman Collestion attached)
 1. CREATE STUDENT
 2. GET ALL STUDENT
 3. UPDATE STUDENT BY ID
@@ -11,3 +11,5 @@ Using several libraries
 2. gorm.io/gorm
 3. gorm.io/driver/mysql  
 4. github.com/joho/godotenv
+
+
