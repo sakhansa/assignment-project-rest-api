@@ -1,4 +1,4 @@
-![image](https://github.com/sakhansa/assignment-project-rest-api/assets/76586236/10b42c95-0cd0-4cfd-a0df-4cd844f0dc35)# assignment-project-rest-api
+# assignment-project-rest-api
 
 Create REST-API
 1. CREATE STUDENT
