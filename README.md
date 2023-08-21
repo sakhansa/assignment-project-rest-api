@@ -1,6 +1,6 @@
 # assignment-project-rest-api
 
-Create REST-API (Postman Collestion attached)
+Create REST-API (Postman Collection attached)
 1. CREATE STUDENT
 2. GET ALL STUDENT
 3. UPDATE STUDENT BY ID
